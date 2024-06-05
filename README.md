@@ -1,4 +1,4 @@
-### Hello, I'm Joshua!
+## 👋 Hello, I'm Joshua!
 
 💫 Software/Machine Learning Engineer focused on pursuing my passions </br>
 🕯️ Currently studying Computer Engineering at the University of Maryland – College Park </br>
@@ -6,5 +6,16 @@
 🔏 Currently working on developing my own Neural Network </br>
 🕸️ Check out my [website](https://joshy-py.github.io.) for my contact information </br>
 
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+## 📊 Github Stats
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshy-py&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshy-py&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
