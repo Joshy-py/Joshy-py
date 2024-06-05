@@ -7,3 +7,4 @@
 🕸️ Check out my [website](https://joshy-py.github.io.) for my contact information </br>
 
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshy-py&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshy-py&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
