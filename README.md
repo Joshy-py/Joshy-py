@@ -2,9 +2,9 @@
 
 💫 Software/Machine Learning Engineer focused on pursuing my passions </br>
 🕯️ Currently studying Computer Engineering at the University of Maryland – College Park </br>
-👑 Currently learning about [Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/) and AI Models </br>
-🔏 Currently working on developing my own Neural Network </br>
-🕸️ Check out my [website](https://joshy-py.github.io.) for my contact information </br>
+👑 Currently learning about [React Development](https://www.youtube.com/watch?v=ifOJ0R5UQOc&ab_channel=PedroTech) </br>
+🔏 Currently working on developing my own Personal Website </br>
+🕸️ Check out my [website](https://joshy-py.github.io.) for my contact information (Currently down for updating!) </br>
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
